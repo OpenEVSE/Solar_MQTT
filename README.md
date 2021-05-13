@@ -1,5 +1,5 @@
 # Solar_MQTT
-Python scripts to get data from solar gateways an publish to MQTT for Solar Divert
+Python scripts to get data from solar gateways an publish to MQTT for OpenEVSE Solar Divert
 
 Example OpenEVSE Solar divert. Data from Solar_MQTT Tesla Energy Gateway to MQTT. Graphs Telegraf => InfluxDB => Graphana
 
